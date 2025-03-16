@@ -19,8 +19,8 @@ Summify AI is a smart text summarization tool built with **React + Vite** and po
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/your-username/summify-ai.git
-cd summify-ai
+git clone https://github.com/AMOHAMMEDIMRAN/Summify-AI-.git
+cd Summify-AI-
 ```
 
 ### 2️⃣ Install dependencies
@@ -58,8 +58,8 @@ Pull requests are welcome! Feel free to improve the project and submit your idea
 
 ---
 
-📧 **Contact:** *your.email@example.com*  
-💙 **Developed by [Mohammed Imran](https://github.com/your-username)*  
+📧 **Contact:** *amohammedimran.11@example.com*  
+💙 **Developed by [Mohammed Imran](https://github.com/AMOHAMMEDIMRAN)*  
 ```
 
 ---
